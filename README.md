@@ -14,6 +14,7 @@ Not sure why the other opencore builds for H510M ITX/AC will not work on mine, p
 
 # Working
 <ul>
+  <li>Forked from nnhan0719</li>
   <li>WiFi and Bluetooth w/ BCM94360CS2 natively supported</li>
   <li>Audio</li>
   <li>Sleep, wake, shutdown</li>
