@@ -23,5 +23,5 @@ Not sure why the other opencore builds for H510M ITX/AC will not work on mine, p
 
 # Not Working
 <ul>
-  <li>Sidecar, DRM on safari</li>
+  <li>Sidecar, DRM in safari</li>
   </ul>
